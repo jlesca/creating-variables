@@ -6,3 +6,4 @@ All about variables in Python.
 3. [Multiple Variables](multiple-variables.py)
 4. [Global Variables](global-variables.py)
 5. [Local Variables](local-variables.py)
+6. [Numbers Variables](numbers-variables.py)
