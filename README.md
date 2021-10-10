@@ -2,6 +2,6 @@
 All about variables in Python.
 
 1. [Create Variables](creating-variables.py)
-2. [Data Type of Variables](datatype-variable.py)
+2. [Data Type of Variables](datatype-variables.py)
 3. [Multiple Variables](multiple-variables.py)
 4. [Global Variables](global-variables.py)
