@@ -16,3 +16,4 @@ print(z) # Esto muestra (1+0j)
 print(type(x)) # Mostrará class 'float'
 print(type(y)) # Mostrará class 'int'
 print(type(z)) # Mostrará class 'complex'
+input() # Salgo del programa.
