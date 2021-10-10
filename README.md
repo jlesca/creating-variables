@@ -1,2 +1,2 @@
-# Creating Variables
-My first variables in Python
+# Variables in Python :snake:
+All about variables in Python.
