@@ -8,3 +8,4 @@ All about variables in Python.
 5. [Local Variables](local-variables.py)
 6. [Numbers Variables](numbers-variables.py)
       1. [Conversion Numbers](conversion-numbers.py)
+      2. [Random Numbers](random-numbers.py)
